@@ -8,7 +8,7 @@
   "server": {
     "ip": "SurvivalZeroSMP.aternos.me",
     "port": 49777,
-    "version": "26.2",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
